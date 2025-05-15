@@ -21,7 +21,7 @@
 
 <p>
   Esses indicadores foram extraídos da base de dados disponibilizada pela Fundação João Pinheiro:<br>
-  📁 <a href="https://raw.githubusercontent.com/MiroPlacido/Datasets/refs/heads/main/imrs.csv">imrs.csv (Fonte de dados)</a>
+  📁 <a href="https://imrs.fjp.mg.gov.br/">imrs.csv (Fonte de dados)</a>
 </p>
 
 <h2>🧪 Metodologia</h2>
@@ -31,13 +31,17 @@
   <li>Segmentação dos dados por <strong>mesorregiões</strong> e <strong>microrregiões</strong> do estado de Minas Gerais</li>
 </ul>
 
-<p>As análises foram realizadas utilizando a linguagem <strong>Python</strong>, no ambiente <strong>Google Colab</strong>, com as seguintes bibliotecas:</p>
+<p>
+  As análises foram realizadas utilizando a linguagem <strong>Python</strong>, no ambiente <strong>Google Colab</strong>, com as seguintes bibliotecas:
+</p>
 
-<pre><code>import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np
-</code></pre>
+<ul>
+  <li><strong>Pandas</strong></li>
+  <li><strong>Matplotlib</strong></li>
+  <li><strong>Seaborn</strong></li>
+  <li><strong>NumPy</strong></li>
+</ul>
+
 
 <h2>🎯 Objetivo</h2>
 <p>
