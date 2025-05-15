@@ -44,13 +44,12 @@ import numpy as np
   Investigar a situação do saneamento básico nos municípios de Minas Gerais a partir de três indicadores específicos, identificando <strong>padrões regionais</strong> e <strong>desigualdades territoriais</strong>.
 </p>
 
-<h2>👩‍💻 Integrantes do grupo</h2>
-<ul>
-  <li>Isabel Baungartner</li>
-  <li>Julia Leandro</li>
-  <li>Lavínia Oliveira</li>
-  <li>Maria Eduarda Fonseca</li>
-</ul>
+## 👩‍💻 Integrantes do grupo
+
+- [Isabel Baungartner](https://www.linkedin.com/in/isabel-baungartner-78a573296/)
+- [Julia Leandro](www.linkedin.com/in/juliasleandro)  
+- [Lavínia Oliveira](https://www.linkedin.com/in/lav%C3%ADnia-oliveira-santos/)
+- [Maria Eduarda Fonseca](https://www.linkedin.com/in/maria-eduarda-fonseca-nascimento-7a93a82ba/)
 
 <h2>🔗 Referências</h2>
 <ul>
